@@ -37,13 +37,13 @@ Currently using Excel to practice and build projects involving:
 
 <p align="left">
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" alt="Power BI" width="65" height="65"/>
 
-<img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" alt="Tableau" width="65" height="65"/>
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" alt="SQL" width="65" height="65"/>
 
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" alt="Python" width="65" height="65"/>
 
 </p>
 
