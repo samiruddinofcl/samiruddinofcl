@@ -19,10 +19,12 @@ I'm passionate about learning new skills, solving problems, and turning raw data
 ## 🛠️ Current Skills
 
 <p align="left">
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" width="70" height="70"/>
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" width="70" height="70"/>
+
 </p>
 
-### Microsoft Excel
+### 📊 Microsoft Excel
 
 Currently using Excel to practice and build projects involving:
 
@@ -37,13 +39,13 @@ Currently using Excel to practice and build projects involving:
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" alt="Power BI" width="65" height="65"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" alt="Tableau" width="65" height="65"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" alt="SQL" width="65" height="65"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" alt="Python" width="65" height="65"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 </p>
 
