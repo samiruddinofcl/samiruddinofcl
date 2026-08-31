@@ -1,4 +1,4 @@
-# Hi, I'm Samiruddin 👋
+# Hi,👋 I'm Samiruddin 
 
 ### Aspiring Data Analyst | Learning by Doing | Building Real-World Projects 📊
 
