@@ -6,16 +6,6 @@ I'm passionate about learning new skills, solving problems, and turning raw data
 
 ---
 
-## 🚀 About Me
-
-- 📊 Aspiring Data Analyst
-- 🧹 Currently working with Microsoft Excel for Data Cleaning and Analysis
-- 📈 Building hands-on projects to strengthen my skills
-- 🧠 Learning by doing and improving with every project
-- 🎯 Working towards becoming a skilled Data Analyst
-
----
-
 ## 🛠️ Current Skills
 
 <p align="left">
